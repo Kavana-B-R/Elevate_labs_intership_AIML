@@ -1,0 +1,11 @@
+age,education,education_num,hours_per_week,income,workclass_Self-emp-inc,workclass_Self-emp-not-inc,workclass_State-gov,marital_status_Married-civ-spouse,marital_status_Married-spouse-absent,marital_status_Never-married,occupation_Exec-managerial,occupation_Handlers-cleaners,occupation_Other-service,occupation_Prof-specialty,relationship_Not-in-family,relationship_Wife,race_White,sex_Male
+-0.3463936865815845,2,0.6523280730534422,0.3156923226363234,<=50K,False,False,True,False,False,True,False,False,False,False,True,False,True,True
+0.9675134004520125,2,0.6523280730534422,-2.0520000971361014,<=50K,False,True,False,True,False,False,True,False,False,False,False,False,True,True
+-0.46583978540282056,3,-0.6523280730534422,0.3156923226363234,<=50K,False,False,False,False,False,False,False,True,False,False,True,False,True,True
+1.3258516969157208,0,-1.3046561461068844,0.3156923226363234,<=50K,False,False,False,True,False,False,False,True,False,False,False,False,False,True
+-1.6603007736151814,2,0.6523280730534422,0.3156923226363234,>50K,False,False,False,True,False,False,False,False,False,True,False,True,False,False
+-0.5852858842240567,4,0.9784921095801632,0.3156923226363234,>50K,False,False,False,True,False,False,True,False,False,False,False,True,True,False
+0.8480673016307764,1,-1.9569842191603264,-1.7889231616058319,<=50K,False,False,False,False,True,False,False,False,True,False,True,False,False,False
+1.2064055980944846,3,-0.6523280730534422,0.7541538818534391,>50K,True,False,False,True,False,False,True,False,False,False,False,False,True,True
+-1.301962477151473,4,0.9784921095801632,1.192615441070555,>50K,False,False,False,False,False,True,False,False,False,True,True,False,True,False
+0.011944609882123779,2,0.6523280730534422,0.3156923226363234,>50K,False,False,False,True,False,False,True,False,False,False,False,False,True,True
